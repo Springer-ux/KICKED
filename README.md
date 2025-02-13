@@ -14,3 +14,8 @@ pkg update && pkg upgrade            # Update all packages
 pkg install libexpat openssl python  # Install python
 pip install -U "yt-dlp[default]"     # Install yt-dlp with default dependencies
 pkg install ffmpeg                   # OPTIONAL: Install ffmpeg
+
+
+
+
+<meta name="google-site-verification" content="1UjcYewEafWf-Z0RXQl76IShooHmRRBomwfIjpYgK24" />
